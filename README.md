@@ -1,2 +1,2 @@
 # adclicksprediction
-Predict which user will click the ad on webite
+Predicts which user will click the ad on webite
